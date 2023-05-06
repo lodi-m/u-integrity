@@ -8,9 +8,9 @@ Students fail to benefit from learning opportunities and do not contribute their
   - Excluding 4 prompts as they required background information to the texts we didn’t have access to
   - 4 prompts remained: prompts 1, 2, 7 and 8, total 6230 essays
 
-- ChatGPT (630 essays)
- - Used the OpenAI API to generate essays
- - Chose the “text-curie-001” model as it’s very capable, fast and low cost
+- ChatGPT (609 essays)
+  - Used the OpenAI API to generate essays
+  - Chose the “text-curie-001” model as it’s very capable, fast and low cost
 
 ## Model
 - LSTM Network (LSTM) Network
